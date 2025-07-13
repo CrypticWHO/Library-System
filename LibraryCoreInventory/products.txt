@@ -1,0 +1,5 @@
+101|The Great Gatsby|Books|15|25.90
+102|HP DeskJet Printer|Electronics|5|199.99
+103|Office Chair|Furniture|8|129.50
+104|Samsung Galaxy A14|Mobile|10|899.00
+105|Yoga Mat|Sports|25|35.75

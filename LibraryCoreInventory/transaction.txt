@@ -1,0 +1,5 @@
+| Transaction ID | User ID  | Item ID | Item Type | Status    |Date
+| -------------- | -------  | ------- | --------- | --------- |---------
+| 201            | 4001     | 5001    | book      | pending   |07/08/2022
+| 202            | 4002     | 5002    | DVD       | completed |23/09/2023
+| 203            | 4007     | 5003    | magazine  | cancelled |25/01/2025

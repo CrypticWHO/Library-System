@@ -1,0 +1,12 @@
+User ID: -76955680
+Username: of
+Email: words
+Type: customer
+
+
+User ID: 103
+Username: kazim
+Email: kazim@gmail.com
+Type: customer
+
+

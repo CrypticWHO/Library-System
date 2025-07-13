@@ -1,0 +1,5 @@
+Date        | User ID | Username | Email               | Type                                           
+07/03/2022  |4001     |Bob       |paulbob@gmail.com    |Student
+10/09/2023  |4010     |Alice     |alice2019@yahoo.com  |Student
+12/05/2025  |4005     |Mim       |mim7001@gmail.com    |Student
+31/05/2025  |4009     |Sara      |sararahman9@gmail.com|Student

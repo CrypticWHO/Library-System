@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1751181256 source:d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\main.c
+	<stdio.h>
+	"product.h"
+
+1751183402 d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\product.h
+
+1751185711 source:d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\product.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"product.h"
+	"file_operations.h"
+
+1751186880 source:d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\library_inventory.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library_inventory.h"
+	"file_operations.h"
+
+1751186142 d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\library_inventory.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1751189078 source:d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\user_transaction.c
+	"user_transaction.h"
+	"file_operations.h"
+
+1751179438 d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\user_transaction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1751181139 source:d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\role_3_main.c
+	<stdio.h>
+	"role_3_category.h"
+	"role_3_supplier.h"
+
+1751135757 d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\role_3_category.h
+
+1751135756 d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\role_3_supplier.h
+
+1751188206 source:d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\file_operations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file_operations.h"
+
+1751187700 d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\file_operations.h
+
+1751183246 source:d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\role_3_category.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"role_3_category.h"
+
+1751189135 source:d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\main_menu.c
+	"product.h"
+	"library_inventory.h"
+	"category_and_supplier.h"
+	"user_transaction.h"
+	"file_operations.h"
+
+1751187414 d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\category_and_supplier.h
+
+1751187350 source:d:\university\semester 2\c programming\assisgnment\assignment code\librarycoreinventory\category_and_supplier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"category_and_supplier.h"
+
